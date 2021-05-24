@@ -1,0 +1,7 @@
+- name: W ES Lint
+  # You may pin to the exact commit or the version.
+  # uses: avgar/awesome-lint@d9eaf441a7999498968b858469f5f1e053c7e43e
+  uses: avgar/awesome-lint@1.0.0
+  with:
+    # Filename to lint
+    filename:  # optional
