@@ -1,5 +1,6 @@
 # Changelog
-
+## 0.94
+* Updated underscore dependency
 ## 0.9.3
 * Fix incorrect port during https requests (omnichronous)
 * Make port configurable
